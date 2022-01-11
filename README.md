@@ -26,7 +26,7 @@
   Apaixonado por tecnologia, estudante de Ciências de Dados e Big Data Analytics e tem intenção de mudar a vida das pessoas através da tecnologia.
   
    
-  ![Snake animation](https://github.com/eduardohnsantos/eduardohnsantos/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/eduardohnsantos/eduardohnsantos/blob/output/github-contribution-grid-snake.svg)
 
 
 
