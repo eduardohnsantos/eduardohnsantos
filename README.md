@@ -20,6 +20,9 @@
   <img align="center" alt="Databricks" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSABP4KXrJCzWBMb7PxXinHMjjR9SbWL1ijW9LASWUrLvTnvueddRhBQZbGxy2ghCYASt0&usqp=CAU">
   <img align="center" alt="Power BI" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi0JDsHWTB4Gdgjm13NkhVvYR3YPrHTAAFcwnq8Upjmg&s">
   <img align="center" alt="Tibco Data Virtualization" heigth="40" width="50" src="https://ansera.si/wp-content/uploads/2018/08/jaspersoft_logo_final.jpg">
+  <img align="center" alt="Apache Airflow" heigth="40" width="50" src="https://miro.medium.com/v2/resize:fit:1042/1*-WONIXxqCzs6nKqZqaUr9w.png">
+  <img align="center" alt="dbt" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXunvsEHees5oEAVWASixilaWe7B-wKt6rrbLJvKik7A&s">
+  <img align="center" alt="Pandas" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAY7WtJ07dJAvloVU8tVwgYsBG0xRNm5Ufm_IHf-3XnA&s">
   </div>
   
   ##
