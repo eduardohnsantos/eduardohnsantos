@@ -24,6 +24,8 @@
   <img align="center" alt="dbt" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXunvsEHees5oEAVWASixilaWe7B-wKt6rrbLJvKik7A&s">
   <img align="center" alt="Pandas" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAY7WtJ07dJAvloVU8tVwgYsBG0xRNm5Ufm_IHf-3XnA&s">
   <img align="center" alt="Jupyter" heigth="40" width="50" src="https://camo.githubusercontent.com/cbea6d07c4194169f76dd7092b3aecc9ca5a02312cd96dee14141ae9005b26fe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a7570797465722f6a7570797465722d6f726967696e616c2d776f72646d61726b2e737667">
+   <img align="center" alt="Docker" heigth="80" width="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOD0oE6u5W-2GrMtw_j2sOf0hkfJAUzgC8g&s">
+  
   </div>
   
   ##
