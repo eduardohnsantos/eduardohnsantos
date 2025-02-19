@@ -9,9 +9,9 @@
 ### Technologies, Skills & Tools
   
 <div style="display: inline_block"><br/>
-  <img align="center" alt="Python" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Oracle" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3elBMDBHPvQhjBXFNOeP5voqkHKschVavqoNz8cIi&s">
-     <img align="center" alt="SQL" heigth="80" width="90" src="https://media.licdn.com/dms/image/v2/D4D12AQHOe5HF849Xtw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1696684905692?e=2147483647&v=beta&t=q15Mdy2Dk3motLTr21ucmpkzauWOP-vLUCPV55I5ihE">
+  <img align="center" alt="Python" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Oracle" heigth="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3elBMDBHPvQhjBXFNOeP5voqkHKschVavqoNz8cIi&s">
+     <img align="center" alt="SQL" heigth="90" width="90" src="https://media.licdn.com/dms/image/v2/D4D12AQHOe5HF849Xtw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1696684905692?e=2147483647&v=beta&t=q15Mdy2Dk3motLTr21ucmpkzauWOP-vLUCPV55I5ihE">
    <img align="center" alt="PostgreSQL" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="MongoDB" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Apache PySpark" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEEWSmkWAScFmLpB_wjqTlvBPBdznYFmtTvHI-R2fYA&s">
@@ -19,13 +19,16 @@
  <img align="center" alt="Azure" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD5j9Kx1JeJa6NGqYw1MBYgg_bfBU7G9PEbNgLFVDaNQ&s">
   <img align="center" alt="Databricks" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSABP4KXrJCzWBMb7PxXinHMjjR9SbWL1ijW9LASWUrLvTnvueddRhBQZbGxy2ghCYASt0&usqp=CAU">
   <img align="center" alt="Power BI" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi0JDsHWTB4Gdgjm13NkhVvYR3YPrHTAAFcwnq8Upjmg&s">
-  <img align="center" alt="Tibco Data Virtualization" heigth="40" width="50" src="https://ansera.si/wp-content/uploads/2018/08/jaspersoft_logo_final.jpg">
-  <img align="center" alt="Apache Airflow" heigth="40" width="50" src="https://miro.medium.com/v2/resize:fit:1042/1*-WONIXxqCzs6nKqZqaUr9w.png">
+  <img align="center" alt="Tibco Data Virtualization" heigth="90" width="90" src="https://ansera.si/wp-content/uploads/2018/08/jaspersoft_logo_final.jpg">
+  <img align="center" alt="Apache Airflow" heigth="60" width="60" src="https://miro.medium.com/v2/resize:fit:1042/1*-WONIXxqCzs6nKqZqaUr9w.png">
   <img align="center" alt="dbt" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXunvsEHees5oEAVWASixilaWe7B-wKt6rrbLJvKik7A&s">
   <img align="center" alt="Pandas" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAY7WtJ07dJAvloVU8tVwgYsBG0xRNm5Ufm_IHf-3XnA&s">
   <img align="center" alt="Jupyter" heigth="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
    <img align="center" alt="Docker" heigth="100" width="110" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOD0oE6u5W-2GrMtw_j2sOf0hkfJAUzgC8g&s">
-   <img align="center" alt="VsCode" heigth="40" width="50" src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png">
+   <img align="center" alt="VsCode" heigth="40" width="40" src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png">
+   <img align="center" alt="Terraform" heigth="40" width="50" src="https://o2b.com.br/wp-content/uploads/2023/07/terraform-logo-1.png">
+   <img align="center" alt="GitHub" heigth="40" width="50" src="https://avatars.slack-edge.com/2020-11-25/1527503386626_319578f21381f9641cd8_512.png">
+    <img align="center" alt="GitLab" heigth="40" width="50" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/gitlab.JPG">
   
   </div>
   
