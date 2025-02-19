@@ -23,8 +23,9 @@
   <img align="center" alt="Apache Airflow" heigth="40" width="50" src="https://miro.medium.com/v2/resize:fit:1042/1*-WONIXxqCzs6nKqZqaUr9w.png">
   <img align="center" alt="dbt" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXunvsEHees5oEAVWASixilaWe7B-wKt6rrbLJvKik7A&s">
   <img align="center" alt="Pandas" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAY7WtJ07dJAvloVU8tVwgYsBG0xRNm5Ufm_IHf-3XnA&s">
-  <img align="center" alt="Jupyter" heigth="80" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
-   <img align="center" alt="Docker" heigth="80" width="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOD0oE6u5W-2GrMtw_j2sOf0hkfJAUzgC8g&s">
+  <img align="center" alt="Jupyter" heigth="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
+   <img align="center" alt="Docker" heigth="100" width="110" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOD0oE6u5W-2GrMtw_j2sOf0hkfJAUzgC8g&s">
+   <img align="center" alt="VsCode" heigth="40" width="50" src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png">
   
   </div>
   
