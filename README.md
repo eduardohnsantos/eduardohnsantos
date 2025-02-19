@@ -2,33 +2,72 @@
 ### Olá! Eu sou o Eduardo Henrique 🖐🏾
 
 <div align="center">
-  <a href="https://github.com/eduardohnsantos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardohnsantos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohnsantos&layout=compact&langs_count=7&theme=onedark"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardohnsantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardohnsantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ### Technologies, Skills & Tools
   
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Python" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Oracle" heigth="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3elBMDBHPvQhjBXFNOeP5voqkHKschVavqoNz8cIi&s">
-     <img align="center" alt="SQL" heigth="90" width="90" src="https://media.licdn.com/dms/image/v2/D4D12AQHOe5HF849Xtw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1696684905692?e=2147483647&v=beta&t=q15Mdy2Dk3motLTr21ucmpkzauWOP-vLUCPV55I5ihE">
-   <img align="center" alt="PostgreSQL" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="MongoDB" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Apache PySpark" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEEWSmkWAScFmLpB_wjqTlvBPBdznYFmtTvHI-R2fYA&s">
-  <img align="center" alt="AWS" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
- <img align="center" alt="Azure" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD5j9Kx1JeJa6NGqYw1MBYgg_bfBU7G9PEbNgLFVDaNQ&s">
-  <img align="center" alt="Databricks" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSABP4KXrJCzWBMb7PxXinHMjjR9SbWL1ijW9LASWUrLvTnvueddRhBQZbGxy2ghCYASt0&usqp=CAU">
-  <img align="center" alt="Power BI" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi0JDsHWTB4Gdgjm13NkhVvYR3YPrHTAAFcwnq8Upjmg&s">
-  <img align="center" alt="Tibco Data Virtualization" heigth="90" width="90" src="https://ansera.si/wp-content/uploads/2018/08/jaspersoft_logo_final.jpg">
-  <img align="center" alt="Apache Airflow" heigth="60" width="60" src="https://miro.medium.com/v2/resize:fit:1042/1*-WONIXxqCzs6nKqZqaUr9w.png">
-  <img align="center" alt="dbt" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXunvsEHees5oEAVWASixilaWe7B-wKt6rrbLJvKik7A&s">
-  <img align="center" alt="Pandas" heigth="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAY7WtJ07dJAvloVU8tVwgYsBG0xRNm5Ufm_IHf-3XnA&s">
-  <img align="center" alt="Jupyter" heigth="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
-   <img align="center" alt="Docker" heigth="100" width="110" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOD0oE6u5W-2GrMtw_j2sOf0hkfJAUzgC8g&s">
-   <img align="center" alt="VsCode" heigth="40" width="40" src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png">
-   <img align="center" alt="Terraform" heigth="40" width="50" src="https://o2b.com.br/wp-content/uploads/2023/07/terraform-logo-1.png">
-   <img align="center" alt="GitHub" heigth="40" width="50" src="https://avatars.slack-edge.com/2020-11-25/1527503386626_319578f21381f9641cd8_512.png">
-    <img align="center" alt="GitLab" heigth="40" width="50" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/gitlab.JPG">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEEWSmkWAScFmLpB_wjqTlvBPBdznYFmtTvHI-R2fYA&s" height="40" alt="spark"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSABP4KXrJCzWBMb7PxXinHMjjR9SbWL1ijW9LASWUrLvTnvueddRhBQZbGxy2ghCYASt0&usqp=CAU" height="40" alt="databricks" />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi0JDsHWTB4Gdgjm13NkhVvYR3YPrHTAAFcwnq8Upjmg&s" height="60" alt="Power BI" />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:1042/1*-WONIXxqCzs6nKqZqaUr9w.png" height="40" alt="Apache Airflow" />
+  <img width="12" />
+  <img src="https://ansera.si/wp-content/uploads/2018/08/jaspersoft_logo_final.jpg" height="60" alt="Tibco Data Virtualization" />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXunvsEHees5oEAVWASixilaWe7B-wKt6rrbLJvKik7A&s" height="60" alt="dbt" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
+</div>
+
+###
+</div>
+
+###
   
   </div>
   
