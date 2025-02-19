@@ -6,7 +6,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardohnsantos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohnsantos&layout=compact&langs_count=7&theme=onedark"/> 
 </div>
 
-### Tecnologias que eu uso no meu dia a dia
+### Technologies, Skills & Tools
   
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
