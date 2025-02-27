@@ -62,6 +62,8 @@
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://hop.apache.org/tech-manual/latest/_images/logo/RGB/jpg/HOP_logo_RGB-4.jpg" height="60" alt="Apache Hop"  />
 </div>
 
 ###
