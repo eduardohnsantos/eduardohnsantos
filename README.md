@@ -65,7 +65,7 @@
   <img width="12" />
   <img src="https://hop.apache.org/tech-manual/latest/_images/logo/RGB/jpg/HOP_logo_RGB-4.jpg" height="60" alt="Apache Hop"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMPNdr4AByDKNHsjUV1vgDTgg4ztpNMH6_Q&s" height="30" alt="KNIME"  />
+  <img src="https://hub.knime.com/og-image-256.png" height="60" alt="KNIME"  />
 </div>
 
 ###
