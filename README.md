@@ -83,26 +83,26 @@
  Profissional com 10 anos de experiência em Tecnologia da Informação, com graduação em Engenharia de Computação, além de uma pós-graduação em Ciência de Dados e Análise de Big Data. Recentemente, conquistei a Certificação Microsoft Azure AZ-900 e DP-900, mergulhando em um mundo fascinante de aprendizado em Inteligência de Negócios, Ciência de Dados, Bancos de Dados, ETL e Big Data. Continuo em busca de conhecimento e estou entusiasmado para adquirir novas certificações em tecnologias de nuvem.
 
 Experiência com as seguintes ferramentas:
-PL/SQL Developer
+PL/SQL Developer,
 Bancos de dados: MySQL, Oracle, SQL Server
-PowerDesigner
-TIBCO® Data Virtualization
-DBeaver
-Jira
-GitLab
-Orion
+PowerDesigner,
+TIBCO® Data Virtualization,
+DBeaver,
+Jira,
+GitLab,
+Orion,
 Conhecimento em:
-Azure Cloud
-Scrum
-Metodologias Ágeis
-Docker
-Spark
-Linguagem R
-Hadoop
-Databricks
-Python
-Estatísticas
-TIBCO Spotfire®
+Azure Cloud,
+Scrum,
+Metodologias Ágeis,
+Docker,
+Spark,
+Linguagem R,
+Hadoop,
+Databricks,
+Python,
+Estatísticas,
+TIBCO Spotfire®,
   
    
  ![Snake animation](https://github.com/eduardohnsantos/eduardohnsantos/blob/output/github-contribution-grid-snake.svg)
