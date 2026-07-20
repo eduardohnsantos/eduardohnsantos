@@ -1,12 +1,12 @@
-# Olá! Eu sou o Eduardo Henrique 🖐🏾
-
-Profissional com 10 anos de experiência em Tecnologia da Informação, graduado em **Engenharia de Computação** e pós-graduado em **Ciência de Dados e Análise de Big Data**. 
-
-Recentemente, conquistei as certificações **Microsoft Azure AZ-900 e DP-900**, consolidando minha atuação em Inteligência de Negócios (BI), Bancos de Dados, pipelines de ETL e Big Data. Sou movido por aprendizado contínuo e focado em soluções robustas de dados em nuvem.
+I build reliable and scalable data pipelines that turn raw data into decision-ready information, working in high-volume environments in the oil & gas industry.
+ 
+I work with Databricks, Python, SQL/PL/SQL, and Azure Data Factory to automate ETL/ELT processes, migrate data across platforms, and ensure quality and governance at every stage. I have experience with Lakehouse and Data Warehouse architectures, dimensional modeling, reverse engineering of data structures, and data integration via SAP Datasphere.
+ 
+I deliver clean, organized, and analytics-ready data, reducing rework and increasing information reliability for business teams. I hold a degree in Computer Engineering, a postgraduate degree in Data Science and Big Data Analytics, and Microsoft certifications (AZ-900 and DP-900). Open to remote opportunities in Brazil and worldwide. 
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 My statistics
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardohnsantos&show_icons=true&theme=github_dark" height="150" alt="Stats de GitHub do Eduardo" />
@@ -40,7 +40,7 @@ Recentemente, conquistei as certificações **Microsoft Azure AZ-900 e DP-900**,
 
 ---
 
-### 🤝 Conecte-se Comigo
+### 🤝 Connect with me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-henrique-01086232/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-aqui@gmail.com)
